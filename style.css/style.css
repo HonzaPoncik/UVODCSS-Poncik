@@ -1,0 +1,64 @@
+
+body {
+    background-image: url(th.jpg); 
+    background-size: cover;
+    background-position: center;
+   
+}
+.nadpis-1 {
+    font-size: 3em;
+    color: #ff6347; 
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.nadpis-2 {
+    font-size: 2.5em;
+    color: #4682b4; 
+    text-align: center;
+}
+.nadpis-3 {
+    font-size: 2em;
+    color: #32cd32; 
+    font-weight: bold;
+}
+.seznam-rijmske {
+    list-style-type: upper-roman;
+    padding-left: 20px;
+}
+.rijmske1 {
+    color: #ff6347; 
+}
+
+.rijmske2 {
+    color: #4682b4; 
+}
+
+.rijmske3 {
+    color: #32cd32; 
+}
+.seznam-neusporadany {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.kruh {
+    list-style-type: circle;
+    color: #ff6347; 
+}
+
+.ctverec {
+    list-style-type: square;
+    color: #4682b4; 
+}
+
+.trojuhelník {
+    list-style-type: triangle;
+    color: #32cd32; 
+}
+
+
+
+
+
+
+
+
